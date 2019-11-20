@@ -52,6 +52,26 @@ table {
   border-spacing: 0;
 }
 
+/* Page Background */
+html {
+  background-color: #322F20;
+}
+
+/* Navigation */
+.Navigation {
+  background-color: #CE4F00;
+}
+
+a {
+  color: #F9EBE0;
+  text-decoration: none;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+
 /* Connect with us section */
 .fa {
   padding: 20px;
